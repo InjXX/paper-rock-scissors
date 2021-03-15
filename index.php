@@ -14,7 +14,7 @@
 Attempt to go to
 <a href="game.php">game.php</a>
 <p>
-<a href="http://www.wa4e.com/code/rps.zip"
+<a href="https://github.com/InjXX/paper-rock-scissors"
  target="_blank">Source Code for this Application</a>
 </p>
 </div>
